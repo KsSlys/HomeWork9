@@ -1,0 +1,15 @@
+/Users/mymacbook/GB/Ex.66/bin/Debug/net7.0/Ex.66
+/Users/mymacbook/GB/Ex.66/bin/Debug/net7.0/Ex.66.deps.json
+/Users/mymacbook/GB/Ex.66/bin/Debug/net7.0/Ex.66.runtimeconfig.json
+/Users/mymacbook/GB/Ex.66/bin/Debug/net7.0/Ex.66.dll
+/Users/mymacbook/GB/Ex.66/bin/Debug/net7.0/Ex.66.pdb
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.csproj.AssemblyReference.cache
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.AssemblyInfoInputs.cache
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.AssemblyInfo.cs
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.csproj.CoreCompileInputs.cache
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.dll
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/refint/Ex.66.dll
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.pdb
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/Ex.66.genruntimeconfig.cache
+/Users/mymacbook/GB/Ex.66/obj/Debug/net7.0/ref/Ex.66.dll
